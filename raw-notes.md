@@ -1,4 +1,4 @@
-Raw Notes
+### Raw Notes
 
 —
 
@@ -6,7 +6,7 @@ Editor note: These are old and very disorganized notes that I'm planning on sift
 
 —
 
-Index
+### Index
 
 1. TBA
 2. TBA
@@ -14,27 +14,25 @@ Index
 
 —
 
-##### PLASTICS and POLYMERS
+### PLASTICS and POLYMERS
 
 "PLASTIC"
   - is a property of a material not the material itself
   - from the greek word "plastikos" which means moldable
 
-##### Primary Plastic Families
+### Primary Plastic Families
 
-1. Thermoplastics - 240 types
+1. Thermoplastics - over 240 types
   - reconstitution ability
   - remelt capacity
   - ex: PETE water bottles / PET milk jugs
 
-2. Thermosets - 60 types
+2. Thermosets - around 60 types
   - chemical reaction
   - solid/permanent
   - ex: galvanized rubber
 
-(((( bring book and read sum more ))))
-
-material selection 
+### Materials Selection
 
 polymer science
 engineered plastics
@@ -44,18 +42,16 @@ high grade steel stainless
 carbon steels
 composites
 
-concerns for –
+concerns must be maintained for –
 
 coating technologies
 dissimilar material issues
 galvanic corrosion
-
 genesis of the idea
-
 designer/engineer
-surgeon
+medical-grade/body-safe components
 
-HISTORY
+### HISTORY
 
 7500 BC STONE AGE
 5000 - 3700 BC COPPER AGE furnaces to 1000 degC
@@ -66,85 +62,84 @@ HISTORY
 PLASTIC: first examples of –
 
 1000BC asphalt or oil based paving
-
 1907AD 'Bakelite' (first synthetic plastic)
 
-WHY DEVELOP SYNTHETIC POLYMER MATERIALS?
+### WHY DEVELOP SYNTHETIC POLYMER MATERIALS?
 
-•electricity and the need to insulate wiring and circuits
-•declining natural resources
-•greater competition for items using nat materials
-•increases in the middle class population and spending
-•attempt to imitate natural material properties/aesthetics
+- electricity and the need to insulate wiring and circuits
+- declining natural resources (lol)
+- greater competition for items using natural materials
+- increases in the middle class population and spending
+- attempt to imitate natural material properties/aesthetics
 
-MATERIAL – WHERE IS IT FROM?
+### MATERIAL – WHERE IS IT FROM?
 
-•horn / tortoise shell - horn protein / keratin
-•paper mache - 1772 Henry Clay patents
-⁃purified ground wood
-⁃pressed into moulds and dried
-⁃resist impacts
-⁃saw dust + blood + egg albumen and gluten
-⁃dried then hot press
-⁃black thermoset
-⁃alternative to ceramic
-⁃combs and shit
-•gutta percha
-✓completely natural plastic from the malayan palanquin tree
-✓dr. peter montgomerie sees natives creating smooth shiny knife handles
-✓softens in hot water and pressed into molds made of stone
-✓electrical insulator
-✓chemically un-reactive thus suitable for chemical bottles
-✓1845 first extrusion machine developed although crude
-✓insulator for telegraph wires
-✓jewelry and picture frames
-✓still used in golf balls 
-•shellac / lacquer
-✓japanese
-✓resin of laquer trees
-✓tree tapped and drained
-✓dried - a natural polymer
-✓painted on in layers and carved
-✓tough, durable waterproof
-✓natural thermoplastic
-✓from lac beetle 'Coccus Laca'
-✓female dips sap and extrudes liquid and forms shell
-✓beetle dies and the shell is harvested
-✓heated filtered and cleaned
-✓1870s was a well established business
-✓flow into molds, chemically a natural polymer
-✓very brittle and weak, would add fiber to the mix
-✓insulator
-✓buttons
-✓knobs
-✓'daguerreotype' cases 
-✓records
-✓inconsistent color
-✓dependent on beetle harvest
-✓darkened with age
+- horn / tortoise shell - horn protein / keratin
+- paper mache - 1772 Henry Clay patents
+  - purified ground wood
+  - pressed into moulds and dried
+  - resist impacts
+  - saw dust + blood + egg albumen and gluten
+  - dried then hot press
+- black thermoset
+  - alternative to ceramic
+  - used for combs and shit
+- gutta percha
+  - completely natural plastic from the malayan palanquin tree
+  - dr. peter montgomerie sees natives creating smooth shiny knife handles
+  - softens in hot water and pressed into molds made of stone
+  - electrical insulator
+  - chemically un-reactive thus suitable for chemical bottles
+  - 1845 first extrusion machine developed although crude
+  - insulator for telegraph wires
+  - jewelry and picture frames
+  - still used in golf balls 
+- shellac / lacquer
+  - japanese
+  - resin of laquer trees
+  - tree tapped and drained
+  - dried - a natural polymer
+  - painted on in layers and carved
+  - tough, durable waterproof
+  - natural thermoplastic
+  - from lac beetle 'Coccus Laca'
+  - female dips sap and extrudes liquid and forms shell
+  - beetle dies and the shell is harvested
+  - heated filtered and cleaned
+  - 1870s was a well established business
+  - flow into molds, chemically a natural polymer
+  - very brittle and weak, would add fiber to the mix
+  - insulator
+  - buttons
+  - knobs
+  - 'daguerreotype' cases 
+  - records
+  - inconsistent color
+  - dependent on beetle harvest
+  - darkened with age
 
-PLASTICS  (previously not chemically altered from original)
+### PLASTICS  (previously not chemically altered from original)
 
-*RUBBER
-⁃1st to be chemically altered*
-⁃1774 latex reaches england as erasers
-⁃1821 charles mcIntosh 'hey this dissolves in paphtha'
-⁃brushed onto fabric to make waterproof cloth
-⁃hot becomes sticky
-⁃cold became brittle
+- RUBBER
+  - 1st to be chemically altered*
+  - 1774 latex reaches england as erasers
+  - 1821 charles mcIntosh 'hey this dissolves in paphtha'
+  - brushed onto fabric to make waterproof cloth
+  - hot becomes sticky
+  - cold became brittle
 
-+ GOODYEAR RUBBER COMPANY +
-goodyear born in america
-company loved rubber
-experimented to make rubber stable
-accident – spilt latex and sulphur onto a stove
-VULCANIZATION* is born
-1851 Great Exhibition
-vulcanization led to all inflatable objects
-MORE SULPHUR THE HARDER THE COMPOUND*
-Ebonite an ebony replacement
-dentures were molded but a nasty taste
-replaces objects made with or from horn
+- GOODYEAR RUBBER COMPANY
+  - goodyear born in america
+  - company loved rubber
+  - experimented to make rubber stable
+  - accident – spilt latex and sulphur onto a stove
+  - VULCANIZATION* is born
+  - 1851 Great Exhibition
+  - vulcanization led to all inflatable objects
+  - MORE SULPHUR THE HARDER THE COMPOUND*
+  - Ebonite an ebony replacement
+  - dentures were molded but a nasty taste
+  - replaces objects made with or from horn
 
 CELLULOID
 
