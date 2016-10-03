@@ -214,7 +214,7 @@ OTHER CHANGES
 
 1926 patent on injection molding machine*
 
-NEW MATERIALS
+### NEW MATERIALS
 
 1929 polystyrene
 1933 unsaturated polyesther polyethylene
@@ -222,7 +222,7 @@ NEW MATERIALS
 1937 polyurethanes PVC
 1938 Nylon - 1st synthetic fibre 
 
-WWII and POST WAR
+### WWII and POST WAR
 
 plastic used during this time in history proved tough
 plastics accepted as useful and unique
@@ -236,7 +236,7 @@ made bowls, glasses and tub or mixing bowels
 Airtight tubs
 Unbreakable 1954 sales reach 25 milllion USD
 
-POLYMER
+### POLYMER
 
 majority of polys made from oil
 
@@ -259,7 +259,7 @@ Octane C8H18
 Eicosane C20H42
 
 IMPORTANT CONCEPT 1
-polymers are like ropes
+polymers are like ropes, have a directionality 
 
 ADD
 
@@ -300,7 +300,7 @@ thermosets - have long chain molecules chemically bonded to the other long chain
 
 *cannot be remelted
 
-THERMOSETS*
+### THERMOSETS
 
 do not soften when heated
 cannot be recycled or reused (car tyres)
@@ -315,7 +315,7 @@ epoxy
 urea-formaldehyde
 polyurethanes *
 
-THERMO PLASTICS*
+### THERMO PLASTICS*
 
 soften when heated
 can be recycled
@@ -390,9 +390,7 @@ GUI
 HISTORY
 VP-CORPORATE IMAGE
 
-2
-
-INJECTION MOLDING
+### INJECTION MOLDING
 
 closed mold processes *
 •injection molding
@@ -421,7 +419,7 @@ design opportunities and constraints
 
 (small injection molding machine) = 20 tons
 
-IM molding process
+###### IM molding process
 
 very high pressure 30-70MPa
 get plastic into all parts of mold
@@ -457,7 +455,7 @@ INJECTION MOLDING PROCESS
 
 Ejector pin*
 
-DESIGN FOR INJECTION MOLDING*
+### DESIGN FOR INJECTION MOLDING*
 •Draft* - sides somewhat angled
 •Radii - 
 •No Undercuts
@@ -476,7 +474,7 @@ red square surrounding mold cavity - Main Die and cavities (hard steel outside, 
 
 red pin above mold cavity - ejector pin system
 
-DRAFT
+###### DRAFT
 
 *typically 2 degrees of draft *
 (there can be 0degree and negative degree draft, only with additional help)
@@ -487,7 +485,7 @@ every 50 mm in height 2• draft will push out 3.5 mm
 
 flashing * - tool degradation leading to increased excess polymer on parting line
 
-WALL THICKNESS
+###### WALL THICKNESS
 
 needs to be consistent
 
@@ -509,7 +507,7 @@ less material better
 
 lower material cost reduce cooling time
 
-RADII
+###### RADII
 
 all corners should have radii
 
@@ -520,7 +518,7 @@ all corners should have radii
 
 *RADII MINIMUM OF .5mm
 
-PART LINE
+###### PART LINE
 
 flatter is cheaper and better seal
 
@@ -532,7 +530,7 @@ anisotropy
 gates and sprues
 threads
 
-UNDERCUTS* 
+###### UNDERCUTS* 
 
 sliding cores (cam core)
 
@@ -548,16 +546,16 @@ however viable: reduce need for other parts / particular visual effect needed
 shut off faces
 pop off mold
 
-WELD LINES*
+###### WELD LINES*
 
 a weld line is an opportunity for fracture
 
 pack out 
 
-ANISTROPY*
+###### ANISTROPY*
 warpage or shrinkage of part due to inconsistent mold flow or interfering mold flow
 
-HOLLOW BODIES
+### HOLLOW BODIES
 
 Rotational molding
 
