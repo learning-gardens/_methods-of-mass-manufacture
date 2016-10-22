@@ -329,13 +329,12 @@ polypropylene
 abs
 styrene
 
-PROPERTY MODIFICATION
+### PROPERTY MODIFICATION
 
-common to blend different polymers to get best of various properties
-
+common to blend different polymers to get best of various properties, e.g:
 polycarbonate (PC) + ABS = PC strength at lower cost of ABS
 
-PROPERTY MODIFICATION
+#### PROPERTY MODIFICATION
 
 Additives
 added to polymers to meet specific performance requirements
