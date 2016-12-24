@@ -1,16 +1,15 @@
-### Raw Notes
-
-—
-
-Editor note: These are old and very disorganized notes that I'm planning on sifting thorough and structuring into a sort of learning plan ... or something!
+##### Raw Notes
+###### Editor note: These are old and very disorganized notes that I'm planning on sifting thorough and structuring into a sort of learning plan ... or something!
 
 —
 
 ### Index
-
-1. TBA
-2. TBA
-3. TBA
+0. Design for Manufacturing
+1. Plastics and Polymers
+	2. Overview
+2. Metals
+	3. Overview
+3. List of Manufacturing Methods
 
 —
 
@@ -671,57 +670,51 @@ BLOW MOLDING ( costs )
 high set up costs generally for high volume of production
 tooling out of steel, sometimes aluminum, or epoxies, pressure not great
 
-DESIGN FOR MANUFACTURING
+## DESIGN FOR MANUFACTURING
  
-(design for X ) dfx:
+Generally, an Industrial Designer will find themselves considering **technical** (read: regardless of use-context or human factors) **requirements** in the form of “Designing for X”, where ‘X’ stands for any of the following:
 
-x = 
+```
+x = [assembly, reliability, recycleability, serviceability, environmental impact, manufacturability]
+```
 
-assembly
-reliability
-recycle ability
-service ability
-environmental impact
-manufacturability [ DFM ]
+For now, we’ll be going over the last item in this list, Design for Manufacturing, or DFM.
 
-DFM: measure of efficiency with which materials can be processed into product***
+DFM: measure of efficiency with which raw materials can be processed into Product
 
-DFM relies on cross-disciplinary team
+DFM relies on cross-disciplinary team — may include but not limited to:
 
-team includes but not limited to:
-•manufacturing engineers
-•industrial designers
-•cost accountants
-•production personell
+- manufacturing engineers
+- industrial designers
+- cost accountants
+- production personel
 
-DFM: guidelines for design
+### DFM: Guidelines for Design and Form:
 
-Process Control
-•reduce number of product parts**
-•use modular elements
-•strive for gravity-based assembly
-•use standard parts if possible {cheaper}
-•eliminate/reduce number of threaded fasteners {use snap fit}
-•use self-aligning or self-nesting parts
-•use symmetrical parts for easier assembly
-•design for automation {use human assemblers wisely}
-•match design to material to process**
-•design parts that are impossible to assemble improperly
-•design for ease of fabrication**
+1. Guidelines for Designing
+	- reduce number of product parts**
+	- use modular elements
+	- strive for gravity-based assembly
+	- use standard parts if possible {cheaper}
+	- eliminate/reduce number of threaded fasteners {use snap fit}
+	- use self-aligning or self-nesting parts
+	- use symmetrical parts for easier assembly
+	- design for automation {use human assemblers wisely}
+	- match design to material to process**
+	- design parts that are impossible to assemble improperly
+	- design for ease of fabrication**
+2. Guidelines for Physical Form
+	- Product form* remember two of these
+	- avoid deep narrow grooves, long thing legs and undercuts
+	- avoid sharp corners
+	- avoid abrupt changes in section
+	- avoid unnecessary hollow shapes
+	- avoid knife edges, as they cause wavy edges
+	- provide generous filets and rounds
+	- design sections for uniform wall thickness
+	- use rib stiffeners to reduce twisting
 
-DFM: guidelines for form
-
-Product form* remember two of these
-•avoid deep narrow grooves, long thing legs and undercuts
-•avoid sharp corners
-•avoid abrupt changes in section
-•avoid unnecessary hollow shapes
-•avoid knife edges, as they cause wavy edges
-•provide generous filets and rounds
-•design sections for uniform wall thickness
-•use rib stiffeners to reduce twisting
-
-VACUUM FORMING
+### DFM: VACUUM FORMING
 
 In general:
 
@@ -741,7 +734,7 @@ Applications:****
 •food packaging
 •product packaging***
 
-Vacuum forming DFM
+### DFM: Vacuum forming
 
 draft** - typically 2° + / on male molds parts shrink onto part making removal difficult
 
@@ -751,7 +744,7 @@ no undercuts** - impossible to remove from mold, (only on top)
 
 part line** - keep the general shape simple, secondary operation so the easier the better
 
-Pressure forming
+### DFM: Pressure forming
 
 Advantages
 
@@ -767,7 +760,7 @@ Applications
 •product packaging***
 •large products
 
-OTHER CLOSED MOULD PROCESSES
+### DFM: OTHER CLOSED MOULD PROCESSES
 
 plastics
 •RIM
@@ -780,7 +773,7 @@ plastics
 metals
 •die casting
 
-RIM - Reaction Injection Moulding
+### RIM - Reaction Injection Moulding
 
 two parts pre-mixed and fed into tool
 reacts and sets
@@ -802,7 +795,7 @@ Applications
 •car arm rests, steering wheels (integral skin)
 •steering wheels (integral skin and metal reinforcing inserts)
 
-STRUCTURAL FOAM
+### DFM: STRUCTURAL FOAM
 
 similar to inject moulding
 
@@ -827,7 +820,7 @@ Disadvantages
 Applications
 Large structural parts
 
-GAS-ASSIST INJECT. MOULDING
+### DFM: GAS-ASSIST INJECT. MOULDING
 
 developed in the 80's
 
@@ -841,7 +834,7 @@ Applications
 •large parts (tabletops) to assist filling the part, reduce tool pressure
 •transportation industry (need for strong light parts)
 
-CO-INJ. MOULDING
+### DFM: CO-INJ. MOULDING
 
 x
 
@@ -861,7 +854,7 @@ Notes on ‘rules’
 •know how to break them
 •play with them
 
-AMORTIZATION
+## AMORTIZATION
 
 It is all about costs and money! 
 Molding processes to be chosen
@@ -904,7 +897,7 @@ cheaper the parts
 less labor and finishing
 suitable for higher volumes
 
-Over Moulding
+### Over Moulding
 
 how modern toothbrushes are made 
 
@@ -922,9 +915,9 @@ Advantages
 •use materials for benefits, eg. structural core, exterior soft feel
 •materials should be compatible
 
-Bi Injection moulding
+### Bi Injection moulding
 
-Casting
+### Casting
 
 Aluminum, zinc, and alloy casting is similar to injection moulding process.
 •sand casting
@@ -945,18 +938,17 @@ die casting gives properties of metals
 •UV stable
 •Chemically resistant
 
-Sand Casting - MISSED
+### Sand Casting - MISSED
 
-Joining plastics
+### Joining plastics
 
-Plastics often part of assemblies of parts
+Plastics often part of assemblies of parts - parts need to be attached to each other
 
-parts need to be attached to each other
+Main methods of plastic joining:
 
-Main methods
-•chemical bond
-•welding
-•Mechanical
+- chemical bond
+- welding
+- Mechanical
 
 ROD WELDING
 
@@ -965,7 +957,6 @@ like metal welding, uses hot air to melt rods and surfaces.
 OTHER WELDING TYPES
 
 hot staking
-
 laser welding
 
 MECHANCAL
@@ -998,76 +989,47 @@ Screws - general
 parts must be designed so screw housing and boss carry load
 
 numbered list
-
 list of elements
-
 list of faults
-
 written description
-
 uses of parts
 
 description of manufacturing method and material for each part 
 
 _______________ 
 
-elements
+Plastic Part Elements
 
-1.Part-line 
-
-2.Ejector pin marks
-
-3.Gate/injection point (if visible)
-
-4.Side cores, undercuts
-
-5.Snap fits
-
-6.Inserts [?]
-
-7.Rib
-
-8.Boss
-
-9.Radius
-
-10.Fillet
-
-11.Snap Fit
-
-12.Secondary Operations i.e. Drilled hole, Flash removal
-
-13.Pad Printing
-
-14.Stickers
-
-15.Shut Off Face
-
-16.Inconsistent wall thickness
-
-17.Ultrasonic welding
-
-18.Vibrational welding
-
-19.Frictional welding
-
+1. Part-line 
+2. Ejector pin marks
+3. Gate/injection point (if visible)
+4. Side cores, undercuts
+5. Snap fits
+6. Inserts [?]
+7. Rib
+8. Boss
+9. Radius
+10. Fillet
+11. Snap Fit
+12. Secondary Operations i.e. Drilled hole, Flash removal
+13. Pad Printing
+14. Stickers
+15. Shut Off Face
+16. Inconsistent wall thickness
+17. Ultrasonic welding
+18. Vibrational welding
+19. Frictional welding 
 20. Chemical welding
 
-faults
+Plastic Part Faults
 
-a. Weld lines
-
-b .Material thickness inconsistencies (particularly vacuum forming, blow molding)
-
-c. Sink marks
-
-d. Sidewall warpage
-
-e. Flashing on part line
-
-f. Burn mark [?]
-
-g. Surface imperfections or inconsistencies [?]
+1. Weld lines
+2. Material thickness inconsistencies (particularly seen in vacuum forming, blow molding, given larger surface areas made and longer neccesary cool times )
+3. Sink marks
+4. Sidewall warpage
+5. Flashing on part line
+6. Burn marks [?]
+6. Surface imperfections or inconsistencies [?]
 
 JENNY'S
 
@@ -1163,42 +1125,54 @@ g. Surface imperfections or inconsistencies [?]
 
 PET BODY
 
+— 
 
+#### METALS
 
-INTRO TO METALS
+There are two types of metals:
 
-Ferrous: Indicates the presence of iron > 3 types of molecular crystal formation
+1. Ferrous: Indicates the presence of iron > 3 types of molecular crystal formation
+2. Non-Ferrous: Metals and alloys w/o and appreciable amount of iron
 
-Non-Ferrous: Metals and alloys w/o and appreciable amount of iron
+NON-FERROUS — There are three types of crystalline formations for non-ferrous metals:
 
-3 Types of crystalline formations for NON-FERROUS: 
-Body Centered Cubic: tungsten , chromium , Alpha Iron (ferrite)
-Face Centered Cubic: Aluminium , Copper , Gold , Lead , Nickel, Iron above crit. temp.
-(CAUSED BY SLOW COOLING)
-Close Packed Hexagonal: Titanium, Cast Iron, Zinc, Magnesium
-(USED TO DESCRIBE HAMMERED + WELDED DECORATIVE METALWORK)
+- Body Centered Cubic: 
+	- tungsten , chromium , Alpha Iron (ferrite)
+- Face Centered Cubic: 
+	- Aluminium , Copper , Gold , Lead , Nickel, Iron above crit. temp.
+	- (CAUSED BY SLOW COOLING)
+- Close Packed Hexagonal: 
+	- Titanium, Cast Iron, Zinc, Magnesium
+	- (USED TO DESCRIBE HAMMERED + WELDED DECORATIVE METALWORK)
 
-Focus on the Following Metals: All contain at least 2% carbon + 1-3% silicon
-Gray Iron 
-Good fatigue resistance
-can dampen vibration
-poor tensile and impact strength
-good compressive strength
-engine blocks, gears, flywheels, large machine bases
-Compacted Graphite
-Good dampening capability, strength
-Good thermal conductivity
-Engine blocks, exhaust manifolds
-Carbon Steel
-Also referred to as common steel
-Stainless Steel
-At least 10.5% of chromium
-Heat resistant and corrosion resistant
-*Tool Steel*
-Used for molds and dies
-Wear resistant
-Tough and strong at high temperatures
-Shock resistant tool steel, hot-work steel, high speed tool steel, type P mold steel
+—
+
+Focus on knowing the following Metals, all contain at least 2% carbon + 1-3% silicon:
+
+- Gray Iron 
+	- Good fatigue resistance
+	- can dampen vibration
+	- poor tensile and impact strength
+	- good compressive strength
+	- engine blocks, gears, flywheels, large machine bases
+
+- Compacted Graphite
+	- Good dampening capability, strength
+	- Good thermal conductivity
+	- Engine blocks, exhaust manifolds
+
+- Carbon Steel
+	- Also referred to as common steel
+
+- Stainless Steel
+	- At least 10.5% of chromium
+	- Heat resistant and corrosion resistant
+
+- *Tool Steel*
+	- Used for molds and dies
+	- Wear resistant
+	- Tough and strong at high temperatures
+	- Shock resistant tool steel, hot-work steel, high speed tool steel, type P mold steel
 
 Powdered Metallurgy: 
 Process
@@ -1213,17 +1187,17 @@ Parts can have any form, draft not required
 Eliminates scrap and loss from machining
 
 Know Properties of the following NON-FERROUS metals:
-Aluminium
+- Aluminium
 High strength to weight ratio
 When exposed to air, forms a protective oxide cover
 Easily machine_ able
 Good electrical conductor
-Copper
+- Copper
 Easy to form and join
 Excellent thermal and electrical conductivity
 Excellent corrosion resistance
 Available as various alloys, subject to stress cracking
-Magnesium
+- Magnesium
 Lightest structural material
 High strength to weight ratio
 Low density but high mechanical strength
